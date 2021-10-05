@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sushan-M
-- 👀 I’m interested in learbing new things
+- 👀 I’m interested in learing new things
 - 🌱 I’m currently learning Python and Sagemaker
 - 💞️ I’m looking to collaborate on all teams
 - 📫 You can reach me at +91 9740059069
